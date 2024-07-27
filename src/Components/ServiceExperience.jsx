@@ -48,27 +48,27 @@ const ServiceExperience = () => {
       <div id="experience">
         <div className="experience-section">
           <h1 className="red-text" style={{ fontSize: "5rem" }}>
-            12
+            1
           </h1>
           <h2>Year Experience</h2>
         </div>
         <div className="experience-section">
           <BlackOutlineBox>
-            <h2 className="red-text">60+</h2>
+            <h2 className="red-text">3+</h2>
             <p>Clients</p>
           </BlackOutlineBox>
           <BlackOutlineBox>
-            <h2 className="red-text">122+</h2>
+            <h2 className="red-text">5+</h2>
             <p>Completed Projects</p>
           </BlackOutlineBox>
         </div>
         <div className="experience-section">
           <BlackOutlineBox>
-            <h2 className="red-text">08</h2>
+            <h2 className="red-text">1</h2>
             <p>freelance experience</p>
           </BlackOutlineBox>
           <BlackOutlineBox>
-            <h2 className="red-text">10</h2>
+            <h2 className="red-text">5</h2>
             <p>Achievements</p>
           </BlackOutlineBox>
         </div>
