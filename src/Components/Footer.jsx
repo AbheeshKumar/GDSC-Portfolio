@@ -19,9 +19,6 @@ const Footer = () => {
           <FaYoutube color="white" />
         </a>
       </div>
-      <div className="footer-creation">
-        <h3>Created for GDSC</h3>
-      </div>
     </div>
   );
 };
