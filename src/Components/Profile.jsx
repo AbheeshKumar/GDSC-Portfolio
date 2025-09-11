@@ -8,11 +8,10 @@ const Profile = () => {
         <p className="red-text">Hello, I'm Abheesh</p>
         <h2>Software Engineer</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Et,
-          aspernatur minus voluptatibus veniam quam delectus voluptas aperiam
-          dolorum reiciendis commodi maiores rem cum repellat dolorem incidunt
-          reprehenderit, ipsa magni ullam recusandae culpa nostrum omnis quaerat
-          eos. Nisi impedit laudantium dolorem!
+        Software Engineer with a strong background in business analysis and Web development. Experienced in gathering and analyzing requirements,
+        engaging stakeholders, and translating business needs into effective technical solutions. 
+        Skilled in building and maintaining responsive React applications, optimizing user experience, and ensuring alignment between business goals and 
+        software delivery.
         </p>
         <button className="red-btn">About Me</button>
       </div>
